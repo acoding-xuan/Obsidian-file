@@ -2,6 +2,13 @@ https://www.bilibili.com/video/BV1HM411377j/?p=6&spm_id_from=pageDriver&vd_sourc
 ## 将远程仓库克隆到本地
 1. 现在远程创建仓库，然后克隆到本地即可
 2. 然后对本地的仓库进行操作，再推送到远程即可。
+## github 文件过大无法上传
+https://blog.csdn.net/qq_43915356/article/details/113619750
+https://deepinout.com/git/git-questions/574_git_cant_push_to_github_because_of_large_file_which_i_already_deleted.html
+```shell
+git filter-branch --tree-filter 'rm -f python_data_analysis/pydata-book-3rd-edition' HEAD
+```
+
 
 ## 将本地仓库推送到远程
 1. 首先在github中建立一个新的仓库
