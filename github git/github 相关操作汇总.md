@@ -5,9 +5,16 @@ https://www.bilibili.com/video/BV1HM411377j/?p=6&spm_id_from=pageDriver&vd_sourc
 ## github 文件过大无法上传
 https://blog.csdn.net/qq_43915356/article/details/113619750
 https://deepinout.com/git/git-questions/574_git_cant_push_to_github_because_of_large_file_which_i_already_deleted.html
+先删除指定文件（夹）
 ```shell
-git filter-branch --tree-filter 'rm -f python_data_analysis/pydata-book-3rd-edition' HEAD
+git filter-branch --tree-filter 'rm -rf python_data_analysis/pydata-book-3rd-edition' HEAD
 ```
+
+然后强制推送
+```c++
+git push -f origin main
+```
+
 
 
 ## 将本地仓库推送到远程
@@ -151,8 +158,6 @@ git status
 build/       #忽略build/目录下的所有文件
 doc/*.txt    #会忽略 doc/notes.txt 但不包括 doc/server/arch.txt
 ```
-
-
 
 
 ## 说明：GIT 分支
