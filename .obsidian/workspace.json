@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "9a408ddbc2db1fec",
+    "type": "split",
+    "children": [
+      {
+        "id": "97af24d904a15fbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37ff319bceda87cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "科研/科研词汇总结.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d64691d7aead508b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "github git/github 相关操作汇总.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fc7019ea49350d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "科研/推荐系统去偏.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e094809270ca7a1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "苹果电脑_入门/Mac使用注意事项.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a546b47da812c659",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4dc6cedc34187b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5178935af03c7e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9a40751a3e393b0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"保研考核/\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f90cc773b4954817",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "98be51d9ab199e8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a80351184f3b62ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ee0912e254a010c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "github git/github 相关操作汇总.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ccd991c6b1d3a493",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "github git/github 相关操作汇总.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b36e490ad195b69d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a65ea10a96f0c378",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "github git/github 相关操作汇总.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
+      "remotely-save:Remotely Save": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "a5178935af03c7e0",
+  "lastOpenFiles": [
+    "科研/科研词汇总结.md",
+    "obsidian_learning/helpful shortcuts.md",
+    "nlp/nlp 中的一些常用的概念.md",
+    "nlp/cs224n.md",
+    "nlp/论文阅读.md",
+    "nlp/调参指令.md",
+    "科研/推荐论文总结.md",
+    "cs保研/英语常见问题整理.md",
+    "cs保研/文书等.md",
+    "cs保研/夏令营总结.md",
+    "cs保研/未命名.md",
+    "cs保研/数据库.md",
+    "cs保研/各学校老师收集.md",
+    "cs保研/复习日历.md",
+    "cs保研/经验.md",
+    "github git/github 相关操作汇总.md",
+    "科研/推荐系统去偏.md",
+    "科研/序列推荐系统论文阅读.md",
+    "img/截屏2024-08-26 11.23.09 1.png",
+    "img/截屏2024-08-26 11.23.09.png",
+    "苹果电脑_入门/Mac使用注意事项.md",
+    "科研/推荐论文阅读.md",
+    "保研考核/BigRec 源码阅读.md",
+    "知识点-ai/anaconda 常用指令.md",
+    "知识点-ai/python 常用工具包.md",
+    "科研/科大服务器.md",
+    "保研考核/论文阅读.md",
+    "保研考核/考核.md",
+    "未命名",
+    "动手学深度学习/imgs/02/02-01.png",
+    "网页同步/【软件工程】山东大学软件工程复习提纲_一个 33_3 kloc 的软件开发项目_ 属于中等规模、半有机型的项目_ 采用中等 cocomo 模型 - CSDN 博客/assets/1718598336575.png",
+    "网页同步/【软件工程】山东大学软件工程复习提纲_一个 33_3 kloc 的软件开发项目_ 属于中等规模、半有机型的项目_ 采用中等 cocomo 模型 - CSDN 博客/assets/1718598336487.png",
+    "网页同步/【软件工程】山东大学软件工程复习提纲_一个 33_3 kloc 的软件开发项目_ 属于中等规模、半有机型的项目_ 采用中等 cocomo 模型 - CSDN 博客/assets/1718598336398.png",
+    "网页同步/【软件工程】山东大学软件工程复习提纲_一个 33_3 kloc 的软件开发项目_ 属于中等规模、半有机型的项目_ 采用中等 cocomo 模型 - CSDN 博客/assets/1718598336209.png",
+    "网页同步/【软件工程】山东大学软件工程复习提纲_一个 33_3 kloc 的软件开发项目_ 属于中等规模、半有机型的项目_ 采用中等 cocomo 模型 - CSDN 博客/assets/1718598336109.png",
+    "网页同步/【软件工程】山东大学软件工程复习提纲_一个 33_3 kloc 的软件开发项目_ 属于中等规模、半有机型的项目_ 采用中等 cocomo 模型 - CSDN 博客/assets/1718598336321.png",
+    "网页同步/【软件工程】山东大学软件工程复习提纲_一个 33_3 kloc 的软件开发项目_ 属于中等规模、半有机型的项目_ 采用中等 cocomo 模型 - CSDN 博客/assets/1718598336003.png",
+    "书籍资料/特征工程/images/chapter8",
+    "书籍资料/特征工程/images/chapter7",
+    "书籍资料/特征工程/images/chapter5",
+    "书籍资料/特征工程/images/chapter4",
+    "书籍资料/特征工程/images/chapter3",
+    "书籍资料/特征工程/images/chapter2",
+    "书籍资料/特征工程/images/Appendix",
+    "书籍资料/特征工程/images/chapter_6",
+    "书籍资料/特征工程/docs"
+  ]
+}
