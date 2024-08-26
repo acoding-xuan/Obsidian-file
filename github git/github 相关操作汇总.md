@@ -1,4 +1,4 @@
-
+https://www.bilibili.com/video/BV1HM411377j/?p=6&spm_id_from=pageDriver&vd_source=1a17967c9b5ad16c1e6d4d30a40550ab
 ## 将远程仓库克隆到本地
 1. 现在远程创建仓库，然后克隆到本地即可
 2. 然后对本地的仓库进行操作，再推送到远程即可。
@@ -212,12 +212,6 @@ git push -u origin new-branch
 ```
 当你推送到一个新的远程分支时，使用 -u 参数会将当前分支的上游分支设置为 origin/new-branch。这条命令不仅将更改推送到远程仓库，还设置了上游分支。
 
-
-
-
-
-
-
 ## git pull
 
 ### 从远程指定分支进行拉取
@@ -255,6 +249,9 @@ git pull origin remote-branch
 - **`origin`**: 远程仓库的名称（通常是 `origin`）。
 - **`remote-branch`**: 远程分支的名称，你希望从中拉取更改的分支。
 
+## git reset
+可以退回到之前提交的某一个版本
+![](../img/Pasted%20image%2020240826190425.png)
 
 ## git连接github
 ```
